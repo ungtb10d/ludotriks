@@ -1,6 +1,6 @@
 ### Yet another take of solving the epic ... *problem 
 ## By using old trics
-![ludo]('...'=100x20)
+![ludo]('...')
 (limited secp256k1-support)
 
 []('....')
