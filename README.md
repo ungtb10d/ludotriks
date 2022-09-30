@@ -3,6 +3,5 @@
 
 ![screenshot](2.jpg)
 
-!Screenhot[](...)
+![](...)
 
-## Non-functional art project
