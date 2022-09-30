@@ -1,5 +1,5 @@
-### Yet another take of solving the epic .*problem 
-## 
+### Yet another take of solving the epic ... *problem 
+## By using old trics
 ![screenshot](...)
 ![screenshot](screenshot.jpg)
 
