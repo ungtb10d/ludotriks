@@ -1,7 +1,7 @@
 ### Yet another take of solving the epic ... *problem 
 ## By using old trics
 ![screenshot](screenshot.jpg)
-!![](...)
+![...](...)
 (limited secp256k1-support)
 
-![screenshot](...=100x20)
+#![screenshot]('...'=100x20)
