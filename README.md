@@ -2,6 +2,6 @@
 ## By using old trics
 ![screenshot](screenshot.jpg)
 ![](...)
-![screenshot](... =x250)
+![screenshot]('...'=x50)
 
 (limited secp256k1-support)
