@@ -1,6 +1,6 @@
 ### Yet another take of solving the epic ... *problem 
 ## By using old trics
-![ludo]('...')
+![screenshot](...)
 (limited secp256k1-support)
 
 []('....')
